@@ -1,0 +1,982 @@
+Par: Dr Mohammed BOUSMAH
+Développement Multiplateformes 
+et Technologies émergentes
+From Traditional Programming 
+To Machine Learning & Deep Learning
+What is Cross-Platform Development ?
+Copyright: bousmah@gmail.com
+Copyright: bousmah@gmail.com
+In 2021, Platform can refer to the:
+Cross-platform = Multi-platform
+What is Cross-Platform Development ?
+q Type of Hardware,  processor (CPU) or other
+q Type of OS (Linux, MacOS, Windows, Android, IOS) or other
+q Type of Programming Paradigms (Traditional Programming vs 
+Machine Learning programming )
+Development = Programming
+Copyright: bousmah@gmail.com
+What is Cross-Platform Development ?
+q Type of OS (Linux, MacOS, Windows, Android, IOS) or other
+CPU GPU TPU
+Copyright: bousmah@gmail.com
+Platform can refer to the type of processor (CPU) or other hardware
+System on Chip (SoC)
+Copyright: bousmah@gmail.com
+Platform can refer to the type of SoC
+System on Chip (SoC)
+Platform can refer to the type of SoC
+Copyright: bousmah@gmail.com
+Neural Processing Unit (NPU)
+Copyright: bousmah@gmail.com
+Platform can refer to the type of SoC
+Neural Processing Unit (NPU)
+Copyright: bousmah@gmail.com
+Platform can refer to the type of SoC
+Neural Processing Unit (NPU)
+Copyright: bousmah@gmail.com
+Platform can refer to the type of SoC
+Example of Platform (TESLA FSDC)
+Copyright: bousmah@gmail.com
+Copyright: bousmah@gmail.com
+Full Self-Driving
+This Is What Tesla's Autopilot Sees On The Road
+Example of Platform (TESLA FSDC)
+Examples of Artificial Intelligence (AI)?
+BostonDynamics
+Industry
+Robotics
+Founded
+1992; 26 years ago
+Headquarters
+Waltham, Massachusetts,United 
+States
+Owner
+Independent
+(1992–2013)
+X (Google X-Lab)
+(2013–2017)
+Softbank Group Corp.
+(2017–present)
+Website
+www.bostondynamics.com
+Copyright: bousmah@gmail.com
+BostonDynamics
+Examples of Artificial Intelligence (AI)?
+Copyright: bousmah@gmail.com
+BostonDynamics
+Examples of Artificial Intelligence (AI)?
+Copyright: bousmah@gmail.com
+Examples of Artificial Intelligence (AI)?
+Copyright: bousmah@gmail.com
+Examples of Artificial Intelligence (AI)?
+Copyright: bousmah@gmail.com
+Examples of Artificial Intelligence (AI)?
+Sophia, robot saoudienne et citoyenne
+L’Arabie saoudite est devenu le premier pays à accorder la 
+nationalité à un humanoïde. Ce « robot social » peut reconnaître les 
+visages, et son propre faciès en silicone peut mimer 62 expressions 
+humaines.
+LE MONDE | 04.11.2017 à 08h00 | Par Violaine Morin
+Copyright: bousmah@gmail.com
+Elon Musk REVEALS Tesla Bot (full presentation)
+4,344,541 views (30/09/2021) Aug 20, 2021
+https://openai.com/blog/openai-codex/
+Définition de l’IA
+Deux types d’approches
+• IA Forte (approche cognitive)
+• La machine doit raisonner à la manière de l’homme (utiliser les mêmes 
+mécanismes de fonctionnement)
+• IA Faible (approche pragmatiste)
+• La machine doit aboutir aux mêmes solutions que l’homme ou l’animal 
+(peu importe la méthode employée)
+• En fait l’IA reste difficile à définir car on ne sait pas vraiment définir la 
+notion d’Intelligence (Qu’est ce qu’être intelligent ?)
+L’Intelligence
+Artificielle
+concerne
+la
+conception
+et
+la
+réalisation
+d’un
+système
+matériel
+ou
+logiciel
+capable
+de
+posséder ou produire les capacités et caractéristiques propres
+à un cerveau humain ou animal.
+Copyright: bousmah@gmail.com
+22
+Les ordinateurs ne sont pas
+intelligents, toute l’ingéniosité
+du chercheur ou ingénieur en
+IA consiste à vous faire croire
+qu’ils le sont !
+Définition de l’IA
+Copyright: bousmah@gmail.com
+Origine de l'intelligence artificielle
+1950 : Alan Turing imagine la machine intelligente
+Chercheur britannique, 
+célèbre pour avoir 
+décrypté le code Enigma 
+des nazis, s'est évertué à 
+démontrer que les 
+machines seraient un jour 
+capables de penser.
+Copyright: bousmah@gmail.com
+Histoire de l'intelligence artificielle
+1957 : le Perceptron, première machine apprenante
+Frank Rosenblatt (July 11, 1928 – July 11, 
+1971) was an American psychologist 
+notable in the field of Artificial Intelligence.
+1973 : le premier « hiver » arrive sur l’IA
+Lors d’un débat à la BBC, un 
+mathématicien expose ses doutes 
+sur l’intelligence artificielle. 
+Conséquence : un gel brutal des 
+financements.
+Copyright: bousmah@gmail.com
+Histoire de l'intelligence artificielle
+1997 : Kasparov s’incline face à Deep Blue
+En 19 coups, le plus grand joueur d’échecs 
+a été terrassé par la machine
+2011 : Avec Watson, IBM remporte « Jeopardy ! »
+En gagnant le plus célèbre jeu télévisé 
+aux Etats-Unis, IBM fait franchir à 
+l’ordinateur une étape dans sa course 
+contre l’être humain.
+Copyright: bousmah@gmail.com
+Histoire de l'intelligence artificielle
+2013 : les GAFA se ruent sur le « machine learning »
+A coups de centaines de millions de 
+dollars, les géants de la Silicon Valley 
+font main basse sur les spécialistes 
+de l’intelligence artificielle.
+2016 : Google devient maître du Go
+A Séoul, le logiciel AlphaGo bat le 
+champion Lee Sedol sur un score 
+sans appel
+Copyright: bousmah@gmail.com
+Quels sont les acteurs de l’IA?
+• Baidu = Google
+• Alibaba = Amazon
+• Tencent (Wechat) = Facebook
+• Xiomi = Apple
+GAFA et BATX  
+China seeks dominance of global AI industry
+for investing in artificial intelligence — creating a $150bn industry by 2030 —
+underlines its desire to beat the US.
+Amazon, Apple, Facebook, IBM 
+and Microsoft are investing huge 
+sums to develop their AI 
+capabilities $21.3bn
+Copyright: bousmah@gmail.com
+Quels sont les acteurs de l’IA?
+Copyright: bousmah@gmail.com
+Le PIB (Produit intérieur brut) du Maroc est des120 milliards 
+de dollars en 2017
+Quels sont les acteurs de l’IA?
+Copyright: bousmah@gmail.com
+Quels sont les acteurs de l’IA?
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+Perception du Monde Machine vs Human 
+Copyright: bousmah@gmail.com
+QU’EST-CE QUE MACHINE LEARNING? 
+QU’EST-CE QUE MACHINE LEARNING? 
+l’encodage UTF-8 :
+# -*- coding: utf-8 -*-
+Parfait ! Vous pouvez désormais exécuter tous les exemples de code de ce livre. 
+Attaquons maintenant les bases du Machine Learning.
+3 QU’EST-CE QUE LE MACHINE LEARNING ?
+Le Machine Learning (apprentissage automatique) est la science (et l’art) de pro-
+grammer les ordinateurs de sorte qu’ils puissent apprendre à partir de données.
+Voici une définition un peu plus générale :
+« [L’apprentissage automatique est la] discipline donnant aux ordinateurs la capacité 
+d’apprendre sans qu’ils soient explicitement programmés. »
+Arthur Samuel, 1959
+Machine
+Learning ou apprentissage
+automatique
+est la
+science
+de
+programmer les ordinateurs de sorte qu’ils puissent apprendre à partir de
+données.
+# -*- coding: utf-8 -*-
+Parfait ! Vous pouvez désormais exécuter tous les exemples de code de ce livre. 
+Attaquons maintenant les bases du Machine Learning.
+1.3 QU’EST-CE QUE LE MACHINE LEARNING ?
+Le Machine Learning (apprentissage automatique) est la science (et l’art) de pro-
+grammer les ordinateurs de sorte qu’ils puissent apprendre à partir de données.
+Voici une définition un peu plus générale :
+« [L’apprentissage automatique est la] discipline donnant aux ordinateurs la capacité 
+d’apprendre sans qu’ils soient explicitement programmés. »
+Arthur Samuel, 1959
+6
+Chapitre 1. Les fondamentaux du Machine Learning
+En voici une autre plus technique :
+« Étant donné une tâche T et une mesure de performance P, on dit qu’un programme 
+informatique apprend à partir d’une expérience E si les résultats obtenus sur T, mesurés 
+par P, s’améliorent avec l’expérience E. »
+Tom Mitchell, 1997
+Votre filtre anti-spam, par exemple, est un programme d’apprentissage automa-
+d
+à d
+fi
+l
+l f
+d l
+à
+d’
+l
+d
+QU’EST-CE QUE MACHINE LEARNING? 
+Apprentissage et Machine Learning
+• Apprentissage supervisé
+• Apprentissage non supervisé
+• Apprentissage renforcé
+QU’EST-CE QUE MACHINE LEARNING? 
+La différence distinct entre l’apprentissage supervisé à
+l’apprentissage non-supervisé est le fait que l’apprentissage
+non-supervisé cherche à trouver des partitions de modèles
+par lui-même, l’extraction des données est donc descriptive.
+L’apprentissage supervisé est utilisé quand l’utilisateur sait
+labelliser les informations, l’extraction des données est donc
+prédictive.
+QU’EST-CE QUE MACHINE LEARNING? 
+QU’EST-CE QUE MACHINE LEARNING? 
+Dans le cas de l’apprentissage supervisé, la
+robustesse
+de
+l’algorithme
+dépendra
+de
+la
+précision de son entrainement. Un algorithme
+apprenant des contenues supervisés produit une
+carte interne qui permet sa réutilisation pour
+classifier de nouvelles quantités de données.
+QU’EST-CE QUE MACHINE LEARNING? 
+L’apprentissage par renforcement (RL pour Reinforcement
+Learning)
+fait
+référence
+à
+une
+classe
+de
+problèmes
+d’apprentissage automatique, dont le but est d’apprendre, à
+partir d’expériences successives, ce qu’il convient de faire de
+façon à trouver la meilleure solution.
+Cette méthode est particulièrement adaptée aux problèmes nécessitant un
+compromis entre la quête de récompenses à court terme et celle de récompenses à
+long terme. Parmi les exemples de problèmes traités de cette façon, on peut
+évoquer : apprendre à un robot à marcher en terrain difficile, à conduire (cas de la
+voiture autonome) ou à accomplir une tâche spécifique (comme jouer au jeu de
+go), piloter un agent à travers un labyrinthe, etc.
+QU’EST-CE QUE MACHINE LEARNING? 
+Supervised Learning
+Supervised algorithms use labeled data in which both the input and target outcome, 
+or label, are provided to the algorithm.
+Supervised Learning
+Supervised Learning is also called predictive modeling or predictive
+analytics, because you build a model that is capable of making predictions.
+Some examples of predictive modeling are classification and regression.
+Classification identifies which category an item belongs to (for example
+whether a transaction is fraud or not fraud), based on labeled examples of
+known items (for example transactions known to be fraud or not). Logistic
+regression predicts a probability, for example the probability of fraud.
+Linear regression predicts a numeric value, for example the amount of
+fraud.
+Supervised Learning
+Some examples of Classificationinclude:
+•credit card fraud detection (fraud, not fraud)
+•credit card application (good credit, bad credit)
+•email spam detection (spam, not spam)
+•text sentiment analysis (happy, not happy)
+•Predicting patient risk (high risk patient, low risk patient)
+•classifying a tumor as malignant or not
+Some examples of logistic regression (or other algorithms) include:
+•given historical car insurance fraudulent claims and features of the 
+claims such as age of the claimant, claimed amount, severity of the 
+accident, predict the probability of fraud.
+•given patient characteristics predict the probability of congestive heart 
+failure.
+Supervised Learning
+Some examples of linear regression include:
+•Given historical car insurance fraudulent claims and features of the 
+claims such as age of the claimant, claimed amount, severity of the 
+accident, predict the amount of fraud.
+•Given historical real estate sales prices and features of houses(square 
+feet, number of bedrooms, location..) predict a house’s price.
+•Given historical neighborhood crime statistics, predict crime rate.
+Unsupervised Learning
+Unsupervised learning, also sometimes called descriptive analytics, does not have
+labeled data provided in advance.
+These algorithms discover similarities,
+or
+regularities in the input data. An example of unsupervised learning is grouping similar
+customers, based on purchase data.
+Decision Trees
+Decision trees create a model that predicts the class or
+label, based on several input features. Decision trees work
+by evaluating a question containing a feature at every node
+and selecting a branch to the next node, based on the
+answer. A possible decision tree for predicting debit card
+fraud is shown below. The feature questions are the nodes,
+and the answers “yes” or “no” are the branches in the tree
+to the child nodes. (Note that a real tree would have more
+nodes).
+Decision trees are popular because they are easy to visualize and explain.
+The accuracy of models can be improved by combining algorithms with
+ensemble methods. An ensemble example is Random forest, which
+combines multiple random subsets of decision trees.
+Decision Trees
+•Q1: Is the amount spent in 24 hours > average Yes
+•Q2: Are there multiple purchases today from risky merchants?
+•
+Yes Fraud 90%
+•
+Not Fraud 50%
+Clustering
+In clustering, an algorithm classifies inputs into categories by analyzing similarities 
+between input examples. Some clustering use cases include:
+ü search results grouping
+ü grouping similar customers
+ü grouping similar patients
+ü Text categorization
+ü Network Security Anomaly detection (finds what is not similar, the outliers 
+from clusters)
+Clustering
+The K-means algorithm groups observations into K clusters in which each observation 
+belongs to the cluster with the nearest mean from its cluster center.
+An example of clustering is a company that wants to segment its customers
+in order to better tailor products and offerings. Customers could be grouped
+on features such as demographics and purchase histories. Clustering with
+unsupervised learning is often combined with Supervised learning in order
+to get more valuable results. For example in this banking customer 360 use
+case, customers were first segmented based on answers to a survey. The
+customer groups were analyzed and labeled with customer personas. These
+labels were then linked by customer Id with features such as types of
+accounts and purchases. Finally supervised machine learning was applied
+and tested with the labeled customers, allowing to link the survey customer
+personas with their banking actions and provide insights.
+Clustering
+Clustering
+QU’EST-CE QUE MACHINE LEARNING? 
+MATHEMATICS
+Copyright: bousmah@gmail.com
+What Algorithms?
+Basically, we need very sophistically 
+Copyright: bousmah@gmail.com
+Intelligence Artificielle
+Quels Algorithmes?
+Intelligence Artificielle
+From Machine Learning to Deep Learning
+Copyright: bousmah@gmail.com
+Intelligence Artificielle
+From Machine Learning to Deep Learning
+Copyright: bousmah@gmail.com
+QU’EST-CE QUE MACHINE LEARNING? 
+Throughout the history of AI the definition has been continuously redefined. 
+AI is an umbrella term, the idea started in the 50s, machine learning is a 
+subset of AI and deep learning is a subset of ML.
+Deep Learning
+Deep learning is the name for multilayered neural networks, which are networks 
+composed of several “hidden layers” of nodes between the input and output
+QU’EST-CE QUE MACHINE LEARNING? 
+Copyright: bousmah@gmail.com
+La descente de gradient consiste à itérativement faire une petite modification 
+des paramètres dans une direction qui réduit l'erreur du modèle (plus 
+précisément, dans la direction opposée au gradient).
+En quoi consiste l'algorithme qu'a inventé Geoffrey Hinton afin d'améliorer
+graduellement les paramètres d'un réseau de neurones?
+À faire de petites modifications sur chaque paramètre du réseau
+simultanément
+What is Learning?
+La rétropropagation du gradient permet de calculer la dérivée de tous les 
+paramètres du réseau dans un temps comparable à celui nécessaire pour:
+Calculer la dérivée d'un seul paramètre
+Calculer la réponse du modèle pour un exemple
+donné
+Quelle tâche accomplit l'algorithme de rétropropagation du gradient?
+Calculer le grad efficacement en Trouvant les minimums locaux
+What is Learning?
+How neural networks are trained?
+http://ml4a.github.io/ml4a/how_neural_networks_are_trained/
+The gradient descent method  + Backpropagation
+Copyright: bousmah@gmail.com
+What is Learning?
+How neural networks are trained?
+http://ml4a.github.io/ml4a/how_neural_networks_are_trained/
+The gradient descent method  + Backpropagation
+Comparison of gradient update methods 
+escaping from a saddle point. Notice that 
+SGD gets stuck. Figure by Alec Radford
+Copyright: bousmah@gmail.com
+What is Learning?
+How neural networks are trained?
+http://ml4a.github.io/ml4a/how_neural_networks_are_trained/
+The gradient descent method  + Backpropagation
+Example of gradient descent
+for linear regression with two
+parameters. We take a random
+guess at the parameters, and
+iteratively update our position
+by taking a small step against
+the direction of the gradent,
+until we are at the bottom of
+the loss function.
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Machine Learning vs. Deep Learning: Feature Engineering
+Machine Learning is used everywhere
+Quelles sont les domaines d’application
+du Machine Learning?
+Copyright: bousmah@gmail.com
+Quelles sont les domaines d’application
+du Machine Learning?
+o Systèmes de détection
+§
+Personnes
+§
+Objets
+§
+Anomalies
+§
+Pannes
+§
+Fraudes
+§
+…
+o Systèmes de classification 
+§
+Segmentation 
+§
+Usage du Web 
+§
+Usage des réseaux sociaux
+§
+…
+o Systèmes de Recommandation
+§
+Marketing personnalisé (ciblage ou targeting)
+§
+Connaissance du marché
+§
+Analyse des tendances
+§
+Satisfaction des clients
+§
+…
+o Systèmes de Prédiction
+§
+Trafic
+§
+Consommation
+§
+Ventes
+§
+…
+Copyright: bousmah@gmail.com
+Any data can be segmented and understood if it can be presented as a matrix of 
+numbers, where every row is a data item and column is a parameter.
+Quelles sont les domaines d’application
+du Machine Learning?
+Copyright: bousmah@gmail.com
+Quelles sont les domaines d’application
+du Machine Learning?
+Copyright: bousmah@gmail.com
+Deep Learning
+Deep Neural Networks for Improved Traditional Algorithms
+§
+Finance: Enhanced Fraud Detection through identification of more complex 
+patterns
+§
+Manufacturing: Enhanced identification of defects based on deeper anomaly 
+detection
+Convolutional Neural Networks for images
+§
+Retail: in-store activity analysis of video to measure traffic
+§
+Satellite images: labeling terrain, classifying objects
+§
+Automotive: recognition of roadways and obstacles
+§
+Healthcare: diagnostic opportunities from x-rays, scans, etc.
+§
+Insurance: estimating claim severity based on photographs
+Recurrent Neural Networks for sequenced data
+§
+Customer satisfaction: transcription of voice data to text for NLP analysis
+§
+Social media: real-time translation of social and product forum posts
+§
+Photo captioning: search archives of images for new insights
+§
+Finance: Predicting behavior based via time series analysis (also enhanced 
+recommendation systems
+Deep Learning
+Intelligence Artificielle
+From Machine Learning to Deep Learning
+Copyright: bousmah@gmail.com
+QU’EST-CE QUE MACHINE LEARNING? 
+Copyright: bousmah@gmail.com
+En s’inspirant du fonctionnement du cortex cérébral visuel des animaux et de 
+l’homme, découvert par Hubel et Wiest (prix nobel 1981) on a établi
+l’architecture Deep Learning (CNN)
+QU’EST-CE QUE MACHINE LEARNING? 
+Copyright: bousmah@gmail.com
+What is Learning?
+Convolutional neural networks
+http://ml4a.github.io/ml4a/convnets/
+Experiments of Hubel & Wiesel (1960s)
+Copyright: bousmah@gmail.com
+A figure from Van Essen and Gallant 1994 that shows the rough location (in a macaque cortex) 
+and function of regions involved in the visual system
+How Deep Learning Works? 
+Comparing the human visual system to a convolutional net. Both process the 
+world topographically and have a hierarchy of processing layers. From
+Yamins, Daniel LK, and James J. DiCarlo. “Using goal-driven deep learning models to understand sensory 
+cortex.” Nature neuroscience 19.3 (2016): 356-365.
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+AI vs Brain
+Specifically convolutional neural networks for deep learning, have been inspired by 
+the human brain.
+Image from the MGH Human Connectome Project: a model of nerve fibers estimated using 
+diffusion MRI (http://www.humanconnectomeproject.org/gallery/)
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Different types of Neural Networks in Deep Learning
+•Artificial Neural Networks (ANN)
+•Convolution Neural Networks (CNN)
+•Recurrent Neural Networks (RNN)
+What is Deep Learning?
+QU’EST-CE QUE MACHINE LEARNING? 
+Copyright: bousmah@gmail.com
+QU’EST-CE QUE MACHINE LEARNING? 
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Perceptron
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+Activation Function
+How Deep Learning Works? 
+Relu Function 
+Copyright: bousmah@gmail.com
+Convolutional neural networks
+Visualizing parts of Convolutional Neural Networks using 
+Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-
+and-cats-5cc01b214e59
+Activation Layers
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+Anatomy of a biological neuron
+Source: ASU school of life sciences
+Simplified neuron body within a network
+Source: Gurney, 1997. An Introduction to Neural Networks
+Artificial neuron
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+How Deep Learning Works? 
+Copyright: bousmah@gmail.com
+What is Learning?
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Artificial Neural Network (ANN)
+What is Deep Learning?
+Deep Learning
+Deep Learning
+Deep Learning
+Deep Learning
+Deep Learning
+Long Short-Term Memory (LSTM)
+Deep Learning
+RNN Cell
+Deep Learning
+Sigmoid squishes values to be between 0 and 1
+Deep Learning
+What is Deep Learning?
+CNN – Image Classification
+What is Deep Learning?
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Convolving image with a filter
+Notice that the 2*2 feature map is 
+produced by sliding the same 3*3 
+filter across different parts of an 
+image.
+Convolutional Neural Networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+What is a CNN?
+Convolutional Layer
+To understand what a CNN is, you need
+to understand how convolutions work.
+Imagine you have an image represented
+as a 5x5 matrix of values, and you take a
+3x3 matrix and slide that 3x3 window
+around the image. At each position the
+3x3 visits,
+you matrix multiply the
+values of your 3x3 window by the
+values in the image that are currently
+being covered by the window. This
+results in a single number the represents
+all the values in that window of the
+image. Here’s a pretty gif for clarity:
+Copyright: bousmah@gmail.com
+Convolutional neural networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+What is a CNN?
+Pooling Layers
+Pooling works very much like convoluting, where we take a kernel and move 
+the kernel over the image, the only difference is the function that is applied to 
+the kernel and the image window isn’t linear.
+Max pooling and Average pooling are the most common pooling functions. 
+Max pooling takes the largest value from the window of the image currently 
+covered by the kernel, while average pooling takes the average of all values in 
+the window.
+Max pooling
+Copyright: bousmah@gmail.com
+Convolutional neural networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+What is a CNN?
+Max pooling
+Copyright: bousmah@gmail.com
+Convolutional neural networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+What is a CNN?
+Recap
+•Three main types of layers in CNNs: Convolutional, Pooling, 
+Activation
+•Convolutional layers multiply kernel value by the image window and 
+optimize the kernel weights over time using gradient descent
+•Pooling layers describe a window of an image using a single value 
+which is the max or the average of that window
+•Activation layers squash the values into a range, typically [0,1] or [-1,1]
+Copyright: bousmah@gmail.com
+Convolutional neural networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+What is a CNN?
+Activation Layers
+Activation layers work exactly as in other neural networks, 
+a value is passed through a function that squashes the value 
+into a range. Here’s a bunch of common ones:
+Copyright: bousmah@gmail.com
+What is a CNN?
+Convolutional neural networks
+Visualizing parts of Convolutional Neural 
+Networks using Keras and Cats
++++++https://hackernoon.com/visualizing-parts-of-convolutional-neural-
+networks-using-keras-and-cats-5cc01b214e59
+This diagram doesn’t show the activation functions, but the architecture is:
+Input image →ConvLayer →Relu → MaxPooling →ConvLayer →Relu→ 
+MaxPooling →Hidden Layer →Softmax (activation)→output layer
+Copyright: bousmah@gmail.com
+Demo: Convolutional neural networks [demo page] [view source]
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Demo: Convolutional neural networks [demo page] [view source]
+Copyright: bousmah@gmail.com
+What is Deep Learning?
+Travaux Pratiques Python
+Anaconda (Python distribution)
+(IDE)
+(PyCharm IDE) 
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Why python?
+Préambule
+•
+En
+1989,
+le
+hollandais
+Guido
+van
+Rossum
+commence
+le
+développement du langage de programmation Python.
+•
+Python est un langage multiplateforme, c'est-à-dire disponible
+sur
+plusieurs
+architectures
+(compatible
+PC,
+tablettes,
+smartphones, ordinateur low cost Raspberry Pi...) et systèmes
+d'exploitation (Windows, Linux, Mac, Android...).
+•
+Le langage Python est gratuit, sous licence libre.
+•
+C'est un des langages informatiques les plus populaires avec C,
+C++, C#, Objective-C, Java, PHP, JavaScript, Delphi, Visual Basic,
+Ruby et Perl (liste non exhaustive).
+•
+Actuellement,
+Python
+en
+est
+à
+sa
+version
+3.
+Cependant,
+la
+version
+2
+est
+encore
+majoritairement
+utilisée.
+Attention : Python 2 n'est pas compatible avec Python 3 !
+Copyright: bousmah@gmail.com
+Why python?
+Que peut-on faire avec Python ?
+•du calcul scientifique (librairie NumPy)
+•des graphiques (librairie matplotlib)
+•de l’intelligence artificiel Machine Learning Deep Learning
+•du traitement du son, de la synthèse vocale (librairie eSpeak)
+•du traitement d'image (librairie PIL), de la vision artificielle par caméra 
+(framework openCV)
+•de la bio-informatique (librairie Biopython)
+•des applications avec interface graphique GUI 
+(librairies Tkinter, PyQt, wxPython, PyGTK...)
+•des jeux vidéo en 2D (librairie Pygame)
+•des applications multi-touch (framework kivy pour tablette et 
+smartphone à écran tactile)
+•des applications Web (serveur Web Zope ; frameworks
+Web Flask, Django)
+•interfacer des systèmes de gestion de base de données 
+(librairie MySQLdb...)
+•des applications réseau (framework Twisted)
+•communiquer avec des ports série RS232 (librairie PySerial), en 
+Bluetooth (librairie pybluez).
+Copyright: bousmah@gmail.com
+Why python?
+PyPI - the Python Package Index
+The Python Package Index is a repository of software for the Python 
+programming language. There are currently 130742 packages here.
+https://pypi.python.org/pypi
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+The Notebook frontend does something extra. In addition to running your code, it stores 
+code and output, together with markdown notes, in an editable document called a 
+notebook. When you save it, this is sent from your browser to the notebook server, 
+which saves it on disk as a JSON file with a .ipynb extension.
+Copyright: bousmah@gmail.com
+Notebook (bloc-note) Jupyter
+Ce Lab contient un notebook (bloc-note) Jupyter pour chaque TP.
+Jupyter est une interface web permettant d’exécuter du code Python (ou 
+autres langages) de façon graphique et interactive. 
+Les notebooks 1 à N correspondent aux TP 1 à N 
+AI, Machine Learning et le Deep Learning sont des concepts théoriques très 
+avancés qui s’apprennent surtout par la pratique ! 
+jupyter notebook à
+Cette commande démarre le serveur web de Jupyter, 
+et ouvre votre navigateur Internet sur l’adresse http://localhost:8888/tree
+Vous devez y voir le contenu du répertoire courant. Il ne vous reste plus 
+qu’à cliquer sur le notebook 1_.ipynb
+Copyright: bousmah@gmail.com
+le principe de jupyter est simple : chaque notebook est constitué d’une liste
+de cellules. Chacune peut contenir du texte formaté ou du code (Python,
+dans notre cas). Lorsqu’on exécute une cellule de code, le résultat s’affiche
+sous la cellule. Cliquez sur le menu Help > User Interface Tour pour un tour
+rapide de l’interface. Pour vous entraîner, insérez quelques cellules de code
+au début du notebook, et exécutez quelques commandes Python, telles que
+print("Hello world!") (voir la figure 1.1).
+Notebook (bloc-note) Jupyter
+1.3 Qu’est-ce que le Machine Learning ?
+5
+Figure 1.1 – Afficher « Hello world! » dans un notebook Jupyter
+Vous pouvez exécuter toutes les cellules du notebook en cliquant sur le menu Cell
+1.3 Qu’est-ce que le Machine Learning ?
+Copyright: bousmah@gmail.com
+Notebook (bloc-note) Jupyter
+Vous pouvez renommer le notebook en cliquant sur son nom (voir la èche 1 sur la gure).
+Cliquez dans une cellule de code et saisissez le code à exécuter ( èche 2), puis exécutez
+le code de la cellule en tapant Shift- Entrée ou en cliquant sur le bouton d’exécution (
+èche 3). Lorsque vous cliquez à l’intérieur d’une cellule, vous passez en mode édition
+(la cellule est alors encadrée en vert). Lorsque vous tapez la touche Echap (Esc) ou que
+vous cliquez juste à gauche de la cellule, vous passez en mode commande (la cellule est
+alors encadrée en bleu). Lorsque vous êtes en mode commande, tapez la touche H pour
+afficher les nombreux raccourcis clavier disponibles.
+Vous pouvez exécuter toutes les cellules du notebook en cliquant sur le menu Cell
+> Run All. 
+Vous remarquerez que tous les notebooks du projet commencent par une cellule qui 
+contient (entre autres) le code suivant : 
+from __future__ import division, print_function, unicode_literals
+Cette ligne permet aux exemples de code de fonctionner indifféremment sous Python 2 
+ou Python 3. 
+Copyright: bousmah@gmail.com
+Par ailleurs, certains commentaires dans les exemples de code contiennent des
+caractères spéciaux (p. ex. des accents). Cela ne devrait pas poser de problèmes
+dans Jupyter, car il utilise par défaut l’encodage UTF-8, qui supporte ces
+caractères, mais si vous recopiez ces exemples de code dans des modules Python 2,
+vous aurez une erreur car Python 2 utilise par défaut l’encodage ASCII, qui ne
+supporte que les caractères anglo-saxons. Vous devrez soit retirer ces caractères
+spéciaux, soit rajouter la ligne suivante au tout début du chier pour forcer Python 2 
+à utiliser l’encodage UTF-8 :
+# -*- coding: utf-8 -*-
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Ecrire un programme python permettant de demander
+à l’utilisateur de deviner un nombre aléatoire entre 1 et 100
+et d’afficher le nombre de tentatives 
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Ecrire un programme python permettant de simuler un jeu de DE
+Améliorer ce programme
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Analyser le programme suivant et dire ce qu’il affiche 
+comme résultats
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Analyser le programme suivant et dire ce qu’il affiche 
+comme résultats
+Copyright: bousmah@gmail.com
+Travaux Pratiques Python
+Niveau: 1
+Copyright: bousmah@gmail.com
+https://github.com/streamlit/demo-uber-nyc-pickups
+Atelier nº 1
+Classification of clothing 
+images
+But:
+Etre capable de concevoir et réaliser une AI
+permettant la classification des images de
+vêtements.
+T.A.F: 
+Ø Démarrer le programme 
+https://www.tensorflow.org/tutorials/keras/classification
+Ø Expliquer ce programme
+Ø Améliorer ce programme
+Comment va-t-on faire ?
+Machine Learning Paradigm ou Paradigme Apprentissage Automatique:
+Programmer les ordinateurs de sorte qu’ils puissent apprendre à partir de
+données.
+Atelier nº 1
+Atelier nº 1
+Atelier nº 1
+Deep Learning
+Atelier nº 1
+Deep Learning
+Copyright: bousmah@gmail.com
+class_names = ['T-shirt/top', 'Pantalon', 'Pullover', 'Robe', 'Manteau',
+'Sandale', 'Chemise', 'Sneaker', 'Sac', 'Bottine']
+Atelier nº 1
+Machine Learning to Predict Stock Prices
+But:
+Etre capable de concevoir et réaliser une AI permettant la
+prédiction du cours de l'action.
+(Le prix auquel s'échangent les actions sur les bourses)
+T.A.F: 
+Ø Démarrer le programme:
+https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233
+Ø Expliquer ce programme
+Ø Améliorer ce programme
+Can the AI trader 
+beat the Human 
+trader ?
+Atelier nº 2
+Une action est un titre de propriété d’une fraction du capital
+d’une société cotée en Bourse. Elle donne droit à son
+détenteur, l’actionnaire, de participer à l’assemblée générale
+en exerçant son droit de vote et de percevoir éventuellement
+une part des bénéfices de l’entreprise concernée sous forme
+de dividendes. Le cours de l’action varie à la hausse ou à la
+baisse au sein de chaque séance de cotation dans l’année.
+Une action est une part du capital d’une entreprise cotée en Bourse.
+Machine Learning to Predict Stock Prices
+Atelier nº 2
+Comment va-t-on faire ?
+Machine Learning to Predict Stock Prices
+Atelier nº 2
+Atelier nº 2
+Quel Modèle ?
+Machine Learning to Predict Stock Prices
+Atelier nº 2
+Keras LSTM model to forecast 
+stock trends
+Candlestick Model
+Machine Learning to Predict Stock Prices
+Atelier nº 2
+Machine Learning to Predict Stock Prices
+Atelier nº 2
+Merci de votre attention
+Copyright: bousmah@gmail.com
+Questions ???
